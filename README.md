@@ -1,4 +1,4 @@
 manda
 =====
 
-Manda is a new generation build system.
+Manda is a language for manipulating data.
